@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Пшеница озимая",
+        "required_acidity": 6.0,
+        "required_moisture": 0.6,
+        "required_humus": 4.0,
+        "preferred_structure": "granular",
+        "required_macros": {
+            "nitrogen": 0.25,
+            "phosphorus": 0.15,
+            "potassium": 0.2,
+            "magnesium": 0.08,
+            "calcium": 0.3
+        }
+    },
+    {
+        "name": "Картофель",
+        "required_acidity": 5.5,
+        "required_moisture": 0.7,
+        "required_humus": 3.5,
+        "preferred_structure": "cloddy",
+        "required_macros": {
+            "nitrogen": 0.2,
+            "phosphorus": 0.25,
+            "potassium": 0.35,
+            "magnesium": 0.05,
+            "calcium": 0.15
+        }
+    },
+    {
+        "name": "Кукуруза",
+        "required_acidity": 6.5,
+        "required_moisture": 0.5,
+        "required_humus": 5.0,
+        "preferred_structure": "granular",
+        "required_macros": {
+            "nitrogen": 0.3,
+            "phosphorus": 0.2,
+            "potassium": 0.25,
+            "magnesium": 0.1,
+            "calcium": 0.2
+        }
+    },
+    {
+        "name": "Гречиха",
+        "required_acidity": 5.0,
+        "required_moisture": 0.4,
+        "required_humus": 2.5,
+        "preferred_structure": "dusty",
+        "required_macros": {
+            "nitrogen": 0.15,
+            "phosphorus": 0.1,
+            "potassium": 0.15,
+            "magnesium": 0.03,
+            "calcium": 0.1
+        }
+    },
+    {
+        "name": "Соя",
+        "required_acidity": 6.0,
+        "required_moisture": 0.6,
+        "required_humus": 4.5,
+        "preferred_structure": "granular",
+        "required_macros": {
+            "nitrogen": 0.35,
+            "phosphorus": 0.15,
+            "potassium": 0.3,
+            "magnesium": 0.07,
+            "calcium": 0.25
+        }
+    },
+    {
+        "name": "Ячмень",
+        "required_acidity": 6.0,
+        "required_moisture": 0.5,
+        "required_humus": 3.0,
+        "preferred_structure": "cloddy",
+        "required_macros": {
+            "nitrogen": 0.18,
+            "phosphorus": 0.12,
+            "potassium": 0.2,
+            "magnesium": 0.04,
+            "calcium": 0.15
+        }
+    },
+    {
+        "name": "Рис",
+        "required_acidity": 5.8,
+        "required_moisture": 0.9,
+        "required_humus": 4.0,
+        "preferred_structure": "granular",
+        "required_macros": {
+            "nitrogen": 0.28,
+            "phosphorus": 0.18,
+            "potassium": 0.22,
+            "magnesium": 0.06,
+            "calcium": 0.1
+        }
+    },
+    {
+        "name": "Подсолнечник",
+        "required_acidity": 6.2,
+        "required_moisture": 0.4,
+        "required_humus": 3.5,
+        "preferred_structure": "cloddy",
+        "required_macros": {
+            "nitrogen": 0.22,
+            "phosphorus": 0.3,
+            "potassium": 0.4,
+            "magnesium": 0.08,
+            "calcium": 0.2
+        }
+    },
+    {
+        "name": "Сахарная свекла",
+        "required_acidity": 6.8,
+        "required_moisture": 0.65,
+        "required_humus": 5.5,
+        "preferred_structure": "granular",
+        "required_macros": {
+            "nitrogen": 0.25,
+            "phosphorus": 0.2,
+            "potassium": 0.35,
+            "magnesium": 0.1,
+            "calcium": 0.4
+        }
+    },
+    {
+        "name": "Лен",
+        "required_acidity": 5.5,
+        "required_moisture": 0.55,
+        "required_humus": 3.8,
+        "preferred_structure": "cloddy",
+        "required_macros": {
+            "nitrogen": 0.15,
+            "phosphorus": 0.12,
+            "potassium": 0.18,
+            "magnesium": 0.05,
+            "calcium": 0.15
+        }
+    },
+    {
+        "name": "Хлопчатник",
+        "required_acidity": 7.0,
+        "required_moisture": 0.5,
+        "required_humus": 4.0,
+        "preferred_structure": "granular",
+        "required_macros": {
+            "nitrogen": 0.3,
+            "phosphorus": 0.25,
+            "potassium": 0.3,
+            "magnesium": 0.12,
+            "calcium": 0.35
+        }
+    },
+    {
+        "name": "Рапс",
+        "required_acidity": 6.5,
+        "required_moisture": 0.6,
+        "required_humus": 4.2,
+        "preferred_structure": "cloddy",
+        "required_macros": {
+            "nitrogen": 0.32,
+            "phosphorus": 0.22,
+            "potassium": 0.28,
+            "magnesium": 0.09,
+            "calcium": 0.3
+        }
+    },
+    {
+        "name": "Овес",
+        "required_acidity": 5.8,
+        "required_moisture": 0.55,
+        "required_humus": 3.2,
+        "preferred_structure": "granular",
+        "required_macros": {
+            "nitrogen": 0.2,
+            "phosphorus": 0.15,
+            "potassium": 0.22,
+            "magnesium": 0.06,
+            "calcium": 0.18
+        }
+    },
+    {
+        "name": "Чечевица",
+        "required_acidity": 6.0,
+        "required_moisture": 0.45,
+        "required_humus": 3.0,
+        "preferred_structure": "cloddy",
+        "required_macros": {
+            "nitrogen": 0.18,
+            "phosphorus": 0.1,
+            "potassium": 0.15,
+            "magnesium": 0.04,
+            "calcium": 0.12
+        }
+    },
+    {
+        "name": "Горох",
+        "required_acidity": 6.2,
+        "required_moisture": 0.5,
+        "required_humus": 3.5,
+        "preferred_structure": "granular",
+        "required_macros": {
+            "nitrogen": 0.22,
+            "phosphorus": 0.12,
+            "potassium": 0.2,
+            "magnesium": 0.05,
+            "calcium": 0.15
+        }
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Подзолистые почвы",
+        "acidity": 4.5,
+        "moisture": 0.3,
+        "humus": 2.0,
+        "structure": "dusty",
+        "macros": {
+            "nitrogen": 0.1,
+            "phosphorus": 0.05,
+            "potassium": 0.15,
+            "magnesium": 0.02,
+            "calcium": 0.1
+        }
+    },
+    {
+        "name": "Черноземные почвы",
+        "acidity": 6.5,
+        "moisture": 0.6,
+        "humus": 8.0,
+        "structure": "granular",
+        "macros": {
+            "nitrogen": 0.3,
+            "phosphorus": 0.2,
+            "potassium": 0.25,
+            "magnesium": 0.1,
+            "calcium": 0.4
+        }
+    },
+    {
+        "name": "Каштановые почвы",
+        "acidity": 7.0,
+        "moisture": 0.4,
+        "humus": 4.0,
+        "structure": "cloddy",
+        "macros": {
+            "nitrogen": 0.15,
+            "phosphorus": 0.1,
+            "potassium": 0.2,
+            "magnesium": 0.05,
+            "calcium": 0.3
+        }
+    },
+    {
+        "name": "Пойменные почвы",
+        "acidity": 6.0,
+        "moisture": 0.8,
+        "humus": 5.0,
+        "structure": "granular",
+        "macros": {
+            "nitrogen": 0.2,
+            "phosphorus": 0.15,
+            "potassium": 0.3,
+            "magnesium": 0.08,
+            "calcium": 0.35
+        }
+    },
+    {
+        "name": "Дерново-подзолистые почвы",
+        "acidity": 5.5,
+        "moisture": 0.5,
+        "humus": 3.0,
+        "structure": "cloddy",
+        "macros": {
+            "nitrogen": 0.12,
+            "phosphorus": 0.08,
+            "potassium": 0.18,
+            "magnesium": 0.03,
+            "calcium": 0.2
+        }
+    },
+    {
+        "name": "Серые лесные почвы",
+        "acidity": 5.8,
+        "moisture": 0.55,
+        "humus": 4.5,
+        "structure": "granular",
+        "macros": {
+            "nitrogen": 0.18,
+            "phosphorus": 0.12,
+            "potassium": 0.22,
+            "magnesium": 0.06,
+            "calcium": 0.25
+        }
+    },
+    {
+        "name": "Бурые пустынно-степные почвы",
+        "acidity": 7.2,
+        "moisture": 0.25,
+        "humus": 1.5,
+        "structure": "dusty",
+        "macros": {
+            "nitrogen": 0.08,
+            "phosphorus": 0.04,
+            "potassium": 0.1,
+            "magnesium": 0.01,
+            "calcium": 0.15
+        }
+    },
+    {
+        "name": "Торфяные почвы",
+        "acidity": 3.8,
+        "moisture": 0.9,
+        "humus": 12.0,
+        "structure": "granular",
+        "macros": {
+            "nitrogen": 0.4,
+            "phosphorus": 0.1,
+            "potassium": 0.15,
+            "magnesium": 0.03,
+            "calcium": 0.05
+        }
+    },
+    {
+        "name": "Красноземы",
+        "acidity": 5.0,
+        "moisture": 0.65,
+        "humus": 6.0,
+        "structure": "cloddy",
+        "macros": {
+            "nitrogen": 0.22,
+            "phosphorus": 0.18,
+            "potassium": 0.28,
+            "magnesium": 0.09,
+            "calcium": 0.18
+        }
+    },
+    {
+        "name": "Солончаки",
+        "acidity": 8.5,
+        "moisture": 0.2,
+        "humus": 1.0,
+        "structure": "dusty",
+        "macros": {
+            "nitrogen": 0.05,
+            "phosphorus": 0.03,
+            "potassium": 0.08,
+            "magnesium": 0.15,
+            "calcium": 0.5
+        }
+    },
+    {
+        "name": "Аллювиальные почвы",
+        "acidity": 6.2,
+        "moisture": 0.75,
+        "humus": 5.5,
+        "structure": "granular",
+        "macros": {
+            "nitrogen": 0.25,
+            "phosphorus": 0.16,
+            "potassium": 0.32,
+            "magnesium": 0.07,
+            "calcium": 0.28
+        }
+    },
+    {
+        "name": "Глеевые почвы",
+        "acidity": 4.0,
+        "moisture": 0.85,
+        "humus": 7.0,
+        "structure": "cloddy",
+        "macros": {
+            "nitrogen": 0.28,
+            "phosphorus": 0.08,
+            "potassium": 0.12,
+            "magnesium": 0.04,
+            "calcium": 0.12
+        }
+    },
+    {
+        "name": "Лугово-черноземные почвы",
+        "acidity": 6.8,
+        "moisture": 0.7,
+        "humus": 9.0,
+        "structure": "granular",
+        "macros": {
+            "nitrogen": 0.35,
+            "phosphorus": 0.25,
+            "potassium": 0.3,
+            "magnesium": 0.12,
+            "calcium": 0.45
+        }
+    },
+    {
+        "name": "Горно-луговые почвы",
+        "acidity": 5.2,
+        "moisture": 0.6,
+        "humus": 6.5,
+        "structure": "cloddy",
+        "macros": {
+            "nitrogen": 0.2,
+            "phosphorus": 0.15,
+            "potassium": 0.25,
+            "magnesium": 0.08,
+            "calcium": 0.22
+        }
+    },
+    {
+        "name": "Песчаные почвы",
+        "acidity": 5.0,
+        "moisture": 0.15,
+        "humus": 0.8,
+        "structure": "dusty",
+        "macros": {
+            "nitrogen": 0.03,
+            "phosphorus": 0.02,
+            "potassium": 0.05,
+            "magnesium": 0.01,
+            "calcium": 0.08
+        }
+    }
+]
